@@ -6,9 +6,9 @@
     editor = code --wait
     autocrlf = input
 
-[remote "origin"]
+[remote "VOID"]
     url = https://github.com/Voidaryan/Portfolio.git
 
 [branch "main"]
-    remote = origin
+    remote = VOID
     merge = refs/heads/main
