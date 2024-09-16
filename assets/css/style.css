@@ -166,7 +166,7 @@ body { background: var(--smoky-black); }
 \*-----------------------------------*/
 
 body {
-  background: url('assets/images/bg.gif') center/cover no-repeat fixed;
+  background: url('/assets/images/bg.gif') center/cover no-repeat fixed;
 }
 
 .sidebar,
