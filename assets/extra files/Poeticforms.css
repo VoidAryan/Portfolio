@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+    padding: 0 20px;
+}
+
+/* Cover photo styling */
+.cover-container {
+    position: relative;
+    width: 100%;
+    height: 400px; /* Adjust the height as needed */
+    background-image: url('/assets/images/subtle-art-cover.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.7);
+}
+
+.cover-content {
+    position: relative;
+    z-index: 1;
+}
+
+.cover-content h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.cover-content p {
+    font-size: 1.5em;
+}
+
+main {
+    max-width: 800px;
+    margin: -50px auto 20px auto; /* Adjust margin to overlap header */
+    position: relative;
+    z-index: 2;
+    background-color: #121212;
+}
+
+.review {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.review h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #444;
+    padding-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #333;
+}
+
+footer p {
+    font-size: 0.9em;
+    color: #b0b0b0;
+}
+
+footer a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
