@@ -7,7 +7,7 @@
     autocrlf = input
 
 [remote "origin"]
-    url = https://github.com/VoidAryan/Portfolio.git
+    url = https://github.com/Voidaryan/Portfolio.git
 
 [branch "main"]
     remote = origin
