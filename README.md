@@ -3,7 +3,7 @@
 
 :star: Star me on GitHub — it helps!
 
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://VoidAryan/Portfolio)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://VoidAryan/netlify.app)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/VoidAryan/)
 
 ### Website Preview 
