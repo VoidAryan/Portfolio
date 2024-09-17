@@ -11,23 +11,23 @@
 
 
 #### Home Page / About
-<img src="website-demo-image/home.jpg" width="900">
+<img src="website-demo-image/home.png" width="900">
 
 
 #### Resume
-<img src="website-demo-image/resume.jpg" width="900">
+<img src="website-demo-image/resume.png" width="900">
 
 
 #### Portfolio
-<img src="website-demo-image/portfolio.jpg" width="900">
+<img src="website-demo-image/portfolio.png" width="900">
 
 
 #### Blog
-<img src="website-demo-image/blog.jpg" width="900">
+<img src="website-demo-image/blog.png" width="900">
 
 
 #### Contact Form
-<img src="website-demo-image/contact.jpg" width="900">
+<img src="website-demo-image/contact.png" width="900">
   
 
 
